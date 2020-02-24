@@ -9,7 +9,10 @@
         "Seymour, B."
     ],
     "BIDSVersion": "1.0.0",
-    "License": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
+    "License": "CC0",
     "Name": "Cognitive control of sensory pain encoding in the pregenual anterior cingulate cortex. d1 - decoder construction in day 1, d2 - adaptive control in day 2.",
-    "ReferencesAndLinks": ["Zhang, S., Yoshida, W., Mano, H., Yanagisawa, T., Shibata, K., Kawato, M., and Seymour, B. (2019). Cognitive control of sensory pain encoding in the pregenual anterior cingulate cortex."]
+    "ReferencesAndLinks": [
+        "Zhang, S., Yoshida, W., Mano, H., Yanagisawa, T., Shibata, K., Kawato, M., and Seymour, B. (2019). Cognitive control of sensory pain encoding in the pregenual anterior cingulate cortex."
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002596.v1.0.0"
 }
